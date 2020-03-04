@@ -1,4 +1,4 @@
-# lecture-20-unittests-review
+# lecture-19-unittests-review
 
 Unit test review
 
@@ -9,15 +9,15 @@ order to run them, tell Python to execute the `unit_tests` module inside `tests/
 
 
 ```
-vocstartsoft:~/environment $ cd lecture-20-unittests-review/
+vocstartsoft:~/environment $ cd lecture-19-unittests-review/
 ```
 (for version python 2.7)
 ```
-vocstartsoft:~/environment/lecture-20-unittests-review (master) $ python -m tests/unit_tests
+vocstartsoft:~/environment/lecture-19-unittests-review (master) $ python -m tests/unit_tests
 ```
 or (for version python 3.6)
 ```
-vocstartsoft:~/environment/lecture-20-unittests-review (master) $ python -m tests.unit_tests
+vocstartsoft:~/environment/lecture-19-unittests-review (master) $ python -m tests.unit_tests
 ```
 Either way, when you run the test(s), output should look something like below:
 ```
@@ -26,7 +26,7 @@ Either way, when you run the test(s), output should look something like below:
 Ran 1 test in 0.000s
 
 OK
-vocstartsoft:~/workspace/lecture-20-unittests-review (master) $
+vocstartsoft:~/workspace/lecture-19-unittests-review (master) $
 ```
 
 ## Write the remaining tests and fix the buggy code! (update!)
