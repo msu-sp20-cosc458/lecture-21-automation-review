@@ -2,7 +2,7 @@ def get_chatbot_response(message):
     if message[:2] != "!!":
         return ''
 
-    points, command, args = message.split(' ', 2)
+    bangs, command, args = message.split(' ', 2)
     if command == "Hey":
         return "What's up!"
     elif command == "add":
