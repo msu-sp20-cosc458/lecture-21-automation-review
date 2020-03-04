@@ -42,6 +42,7 @@ all be usable like your chatbot would be!
 (As an example, `get_chatbot_response("Hey <name>")` should return `"What's up!"`.)
 
 In Class: Fix the `add` conditional in the `get_chatbot_response` function. Finish the unit test for the `add` conditional in `unit_tests.py` to verify it works.
+
 Homework: Fix the rest of the `get_chatbot_response` function, and update the unit tests.
 
 ## Tips
