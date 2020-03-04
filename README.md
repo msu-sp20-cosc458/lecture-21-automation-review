@@ -41,7 +41,8 @@ all be usable like your chatbot would be!
 
 (As an example, `get_chatbot_response("Hey <name>")` should return `"What's up!"`.)
 
-Fix the rest of the `get_chatbot_response` function and update the unit tests. The first unit test has been done for you.
+In Class: Fix the add function in `get_chatbot_response`. Create a unit test in `unit_tests.py` to verify it works.
+Homework: Fix the rest of the `get_chatbot_response` function and update the unit tests.
 
 ## Tips for getting started
 
