@@ -19,13 +19,14 @@ or (for version python 3.6)
 ```
 vocstartsoft:~/environment/lecture-20-unittests-review (master) $ python -m tests.unit_tests
 ```
+Either way, when you run the test(s), output should look something like below:
 ```
 .
 ----------------------------------------------------------------------
 Ran 1 test in 0.000s
 
 OK
-vocstartsoft:~/workspace/lecture-19-unittests-review (master) $
+vocstartsoft:~/workspace/lecture-20-unittests-review (master) $
 ```
 
 ## Write the remaining tests and fix the buggy code! (update!)
