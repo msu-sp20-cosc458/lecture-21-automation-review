@@ -7,14 +7,19 @@ Unit test review
 Unlike last lecture, the tests are in a different directory (before, tests were simply in a different file). In
 order to run them, tell Python to execute the `unit_tests` module inside `tests/` (or `tests.`):
 
+
+```
+vocstartsoft:~/environment $ cd lecture-20-unittests-review/
+```
 (for version python 2.7)
 ```
-vocstartsoft:~/environment $ cd lecture-19-unittests-review/
-vocstartsoft:~/environment/lecture-19-unittests-review (master) $ python -m tests/unit_tests
+vocstartsoft:~/environment/lecture-20-unittests-review (master) $ python -m tests/unit_tests
 ```
 or (for version python 3.6)
 ```
-vocstartsoft:~/environment/lecture-19-unittests-review (master) $ python -m tests.unit_tests
+vocstartsoft:~/environment/lecture-20-unittests-review (master) $ python -m tests.unit_tests
+```
+```
 .
 ----------------------------------------------------------------------
 Ran 1 test in 0.000s
