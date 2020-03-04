@@ -29,7 +29,7 @@ OK
 vocstartsoft:~/workspace/lecture-19-unittests-review (master) $
 ```
 
-## Write the remaining tests and fix the buggy code! (update!)
+## Write the remaining tests and fix the buggy code!
 
 Look at function `get_chatbot_response` inside `functions.py`.
 
@@ -40,6 +40,8 @@ There are four commands -- `hello`, `add`, `divide`, and `say`, and they should
 all be usable like your chatbot would be!
 
 (As an example, `get_chatbot_response("Hey <name>")` should return `"What's up!"`.)
+
+### Assignment
 
 In Class: Fix the `add` conditional in the `get_chatbot_response` function. Finish the unit test for the `add` conditional in `unit_tests.py` to verify it works.
 
