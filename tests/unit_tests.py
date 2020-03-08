@@ -8,8 +8,8 @@ class ChatBotResponseTest(unittest.TestCase):
         self.assertEqual(response, "")
         
     def test_add_command(self):
-        response = functions.get_chatbot_response("!! add 4 2")
-        self.assertEqual(response, 6)
+        response = functions.get_chatbot_response(''' Put something here''')
+        self.assertEqual('''Put something here''')
 
 if __name__ == '__main__':
     unittest.main()
