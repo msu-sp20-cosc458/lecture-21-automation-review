@@ -1,6 +1,6 @@
-# lecture-19-unittests-review
+# lecture-21-automation-review
 
-Unit test review
+Automation (Test and Continuous Integration) review
 
 ## Run the tests (review)
 
@@ -29,7 +29,7 @@ OK
 vocstartsoft:~/workspace/lecture-19-unittests-review (master) $
 ```
 
-## Write the remaining tests and fix the buggy code!
+## Write the remaining tests and fix the buggy code (review)
 
 Look at function `get_chatbot_response` inside `functions.py`.
 
@@ -41,7 +41,7 @@ all be usable like your chatbot would be!
 
 (As an example, `get_chatbot_response("Hey <name>")` should return `"What's up!"`.)
 
-### Assignment
+### Assignment (review)
 
 In Class: Fix the `add` conditional in the `get_chatbot_response` function. Finish the unit test for the `add` conditional in `unit_tests.py` to verify it works.
 
