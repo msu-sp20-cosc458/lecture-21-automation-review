@@ -1,6 +1,6 @@
 # lecture-21-automation-review
 
-Automation (Test and Continuous Integration) review
+Automation (test and continuous integration) review
 
 ## Run the tests (review)
 
